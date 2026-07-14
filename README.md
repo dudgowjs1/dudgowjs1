@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=FF9000&text=dudgowjs1&desc=Web%20/%20App%20/etc%20devs&descAlign=63&descSize=25&descAlignY=52&animation=fadeIn&reversal=true&fontAlignY=29&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=FF9000&text=dudgowjs1&desc=Web%20/%20bash%20devs&descAlign=63&descSize=25&descAlignY=52&animation=fadeIn&reversal=true&fontAlignY=29&fontSize=65)
 - 🌱 I’m currently learning **Web,Bash(adb)**
 
-- 💬 Ask me about **what**
+- 💬 Ask me about **No adout.**
 
 - 📫 How to reach me **wjsdudgo11313@gmail.com**
 
